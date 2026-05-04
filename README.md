@@ -37,8 +37,3 @@ Languages and runtimes, mainstream frontend frameworks, Node or similar backends
 - If you’re hiring or collaborating on **full-stack** or **applied AI** products, reach out via the contact options on my profile  
 
 ---
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KangKangKings&show_icons=true&hide_title=true&hide_rank=true&include_all_commits=true" alt="GitHub stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KangKangKings&layout=compact&hide_title=true" alt="Top languages" height="150" />
-</p>
